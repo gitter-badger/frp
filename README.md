@@ -1,5 +1,7 @@
 # frp
 
+[![Join the chat at https://gitter.im/frp-community/Lobby](https://badges.gitter.im/frp-community/Lobby.svg)](https://gitter.im/frp-community/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/fatedier/frp.svg)](https://travis-ci.org/fatedier/frp)
 
 [README](README.md) | [中文文档](README_zh.md)
